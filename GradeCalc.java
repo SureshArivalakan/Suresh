@@ -1,3 +1,4 @@
+//CODTECH IT SOLUTION PROJECT TASK
 import java.util.Scanner;
 
 public class GradeCalc {
